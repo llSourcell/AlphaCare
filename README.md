@@ -34,7 +34,7 @@ pip install scipy
 
 ## Instructions
 
-After installing each dependency, go to the Computer Vision folder and open the notebook titled AlphaCare_Notebook_v1 via [jupyter notebook](https://jupyter.org/) or upload it to [google colab](https://colab.research.google.com/).
+After installing each dependency, go to the Computer Vision folder and open the notebook titled AlphaCare_Notebook_v1 via [jupyter notebook](https://jupyter.org/) or upload it to [google colab](https://colab.research.google.com/). The Dataset used is the[MIT BIH dataset](https://www.kaggle.com/taejoongyoon/mitbit-arrhythmia-database).
 
 ## TODOs (Pull requests are encouraged
 
