@@ -39,15 +39,15 @@ After installing each dependency, go to the Computer Vision folder and open the 
 ## TODOs (Pull requests are encouraged
 
 - [x] Computer Vision Notebook for ECG Classification
-- [] Integrate notebook into Flask web app (in progress)
-- [] Visualize each ECG signal in real-time
-- [] Add NLP module for Electronic Health Record interpretation
-- [] Chatbot for Diagnostic Recommendations
-- [] Data Generation for improved accuracy in text, image, and numeric classification
-- [] Add Reinforcement Learning engine for real-time predictions on biometric data streams
-- [] Add Patient privacy preservation functionality via Ethereum Blockchain
-- [] Add Quantum Machine Learning use case
-- [] Create Integration pre processing file to allow end to end prediction using any type of data
+- [ ] Integrate notebook into Flask web app (in progress)
+- [ ] Visualize each ECG signal in real-time
+- [ ] Add NLP module for Electronic Health Record interpretation
+- [ ] Chatbot for Diagnostic Recommendations
+- [ ] Data Generation for improved accuracy in text, image, and numeric classification
+- [ ] Add Reinforcement Learning engine for real-time predictions on biometric data streams
+- [ ] Add Patient privacy preservation functionality via Ethereum Blockchain
+- [ ] Add Quantum Machine Learning use case
+- [ ] Create Integration pre processing file to allow end to end prediction using any type of data
 
 
 ## Credits
