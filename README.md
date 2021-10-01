@@ -5,11 +5,11 @@
 
 AlphaCare is a work-in-progress, open-source Deep Learning Engine for Healthcare that aims to treat and prevent major diseases. The goal is to eventually target the root cause of all disease, aging. We'll be building new features every week as a community and in the process, learn about all the potential ways that Deep Learning can be used in Healthcare. 
 
-## Coding Challenge (Due Date: August 27, 2021 at 12 PM PST)
+## Coding Challenge (Due Date: October 7, 2021 at 12 PM PST)
 
-Create a Convolutional Neural Network to classify any type of Medical Image (CT scans, Brain Scans, etc.). You can use the alphacare notebook in the computer vision folder as a starting point. Submit your code to this link and post a classified image example on your favorite social network with the hashtag #AlphaCare. I'll announce the winner in 2 weeks, and we'll integrate their code into this repository. AlphaCare will become more and more multi-purpose as we continually add capabilities to it. 
+Use DeepMind's Perceiver IO model to classify any type of Medical Image (CT scans, Brain Scans, etc.). You can use the alphacare notebook in the computer vision folder as a starting point, labeled "perceiver". Submit your code to this link and post a classified image example on your favorite social network with the hashtag #AlphaCare. I'll announce the winner in 2 weeks, and we'll integrate their code into this repository. AlphaCare will become more and more multi-purpose as we continually add capabilities to it. 
 
-[Submission Link](https://forms.gle/kBQJvfYzqEzWKUBJ9)
+[Submission Link](https://forms.gle/2DJkYts4HAfHMKpm8)
 
 ## Dependencies
 - keras
